@@ -152,3 +152,12 @@ button {
 .anime-link:hover {
   text-decoration: underline;
 }
+.index{
+  display:flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.index button{
+  width: 20%;
+}
